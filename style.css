@@ -1,0 +1,31 @@
+
+body{
+   background-color: aquamarine;
+} 
+h1{color: brown;
+   font-style: italic;
+   text-align: center;
+   
+}
+
+
+.tinkerhub{
+   background-color: blue;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+}
+button{
+   margin: 25px;
+   padding: 25px;
+   margin-top: 25px ;
+   margin-bottom: 25px;
+   margin-right: 25px;
+   margin-left: 25px;
+   cursor : pointer;
+   border-width: 25px;
+}
+button:hover{
+   background-color: antiquewhite;
+   color: blue;
+}
