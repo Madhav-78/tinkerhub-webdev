@@ -10,7 +10,7 @@ h1{color: brown;
 
 
 .tinkerhub{
-   background-color: blue;
+   /* background-color: blue; */
    align-items: center;
    justify-content: center;
    display: flex;
